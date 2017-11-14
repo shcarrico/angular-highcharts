@@ -1,7 +1,7 @@
 {
-  "name": "angular2-highcharts",
-  "version": "0.5.5",
-  "description": "Highcharts for your Angular2 project",
+  "name": "angular-highcharts",
+  "version": "1.0.0-pre-1",
+  "description": "Highcharts for your Angular project",
   "scripts": {
     "watch": "ntsc -w",
     "build": "rm -rf dist && ngc",
@@ -9,21 +9,23 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gevgeny/angular2-highcharts"
+    "url": "https://github.com/shcarrico/angular-highcharts"
   },
   "keywords": [
     "angular",
     "charts",
     "highcharts",
     "highstock",
-    "highmaps"
+    "highmaps",
+    "angular2-highcharts",
+    "gevgeny"
   ],
-  "author": "Eugene Gluhotorenko",
+  "author": "Stan Carrico",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/gevgeny/angular2-highcharts/issues"
+    "url": "https://github.com/shcarrico/angular-highcharts/issues"
   },
-  "homepage": "https://github.com/gevgeny/angular2-highcharts#readme",
+  "homepage": "https://github.com/shcarrico/angular-highcharts#readme",
   "devDependencies": {
     "@angular/common": "^2.4.7",
     "@angular/compiler": "^2.4.7",
